@@ -1087,7 +1087,8 @@
                                 <div class="col-lg-7 mil-mb-30">
 
                                     <h3 class="mil-light mil-up-font mil-mb-30">Join The <span class="mil-accent">baymax</span> <br>international</h3>
-                                    <!-- <p class="mil-light-soft">Lorem ipsum dolor sit amet, consectetuer<br> adipiscing elit, sed diam nonummy.</p> -->
+                                    <p class="mil-light-soft">515 N Flagler Dr West Palm Beach, FL 33401
+</p>
 
                                 </div>
                                 <div class="col-lg-5 mil-mb-30">
